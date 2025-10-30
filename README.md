@@ -15,6 +15,9 @@
  * Security: Spring Security
  * Swagger 3.0: SpringDoc OpenAPI 2.7.0
  * Test: JUnit 5, Mockito, Postman
+   
+# ERD
+<img width="880" height="497" alt="image" src="https://github.com/user-attachments/assets/12fc5321-bc51-4802-b918-227130c1ab36" />
 
 
 # Swagger API List
